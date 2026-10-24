@@ -20,6 +20,7 @@ Resources for preparation to pass AWS certifications.
 
 ## Resources
 - [AWS Whitepaper page](https://aws.amazon.com/whitepapers/)
+- [AWS Cloud Certify](https://awscloudcertify.com/guides) - Free guides on AWS certification costs, renewal and study plans, plus free practice tests.
 
 ## Certified SysOps Administrator - Associate (AWS)
 ### Courses
